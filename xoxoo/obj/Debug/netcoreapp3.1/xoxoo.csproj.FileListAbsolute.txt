@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.AssemblyInfo.cs
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.exe
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.deps.json
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.runtimeconfig.json
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.dll
+C:\Users\Alex\source\repos\xoxoo\xoxoo\bin\Debug\netcoreapp3.1\xoxoo.pdb
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.dll
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.pdb
+C:\Users\Alex\source\repos\xoxoo\xoxoo\obj\Debug\netcoreapp3.1\xoxoo.genruntimeconfig.cache
